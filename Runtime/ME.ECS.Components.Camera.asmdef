@@ -1,0 +1,19 @@
+{
+    "name": "ME.ECS.Components.Camera",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS",
+        "ME.ECS.IL2CPP",
+        "ME.ECS.FPMath",
+        "ME.ECS.Transform"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
